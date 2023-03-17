@@ -1,5 +1,5 @@
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-part '{{name.snakeCase()}}.g.dart';
+part '{{name.snakeCase()}}_provider.g.dart';
 
 
 @riverpod

@@ -1,7 +1,7 @@
-
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter/material.dart';
 
-class {{name.pascalCase()}} extends StatelessWidget {
+class {{name.pascalCase()}} extends ConsumerWidget {
   const {{name.pascalCase()}}({super.key});
 
   @override

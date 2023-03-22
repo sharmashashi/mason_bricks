@@ -5,7 +5,7 @@ class {{name.pascalCase()}} extends ConsumerWidget {
   const {{name.pascalCase()}}({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     return Container();
   }
 }
